@@ -1,11 +1,11 @@
-About r-rmtstat
-===============
+About r-rmtstat-feedstock
+=========================
+
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-rmtstat-feedstock/blob/main/LICENSE.txt)
 
 Home: https://CRAN.R-project.org/package=RMTstat
 
 Package license: BSD-3-Clause
-
-Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-rmtstat-feedstock/blob/main/LICENSE.txt)
 
 Summary: Functions for working with the Tracy-Widom laws and other distributions  related to the eigenvalues of large Wishart matrices. The tables for computing the Tracy-Widom densities and distribution functions were computed by Momar Dieng's MATLAB package "RMLab" (formerly available on his homepage at  http
 
