@@ -1,4 +1,4 @@
-{% set version = "0.3.1" %}
+{% set version = "0.3.2" %}
 
 {% set posix = 'm2-' if win else '' %}
 
@@ -12,11 +12,11 @@ source:
     - https://cran.r-project.org/src/contrib/RMTstat_{{ version }}.tar.gz
     - https://cran.r-project.org/src/contrib/Archive/RMTstat/RMTstat_{{ version }}.tar.gz
 
-  sha256: bb4827d76106f5377044cd2b230208881eb714cae65f512f4b95988d9b162ae4
+  sha256: 9bed319accd87abbe1355f9417709086cf43c834c3c090e5dd275ea8cb917a44
 
 build:
   noarch: generic
-  number: 4
+  number: 0
 
   rpaths:
     - lib/R/lib/
